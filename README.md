@@ -15,6 +15,7 @@ Fleet customers require timely resolution of vehicle concerns. Delays can negati
 - Business Intelligence
 - Data Visualization
 - Data Analysis
+- SQL
 
 ## Dashboard Components
 
